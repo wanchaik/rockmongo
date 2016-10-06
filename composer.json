@@ -1,0 +1,13 @@
+{
+    "name": "wanchaik/rockmongo",
+    "description": "Description of project rockmongo.",
+    "authors": [
+        {
+            "name": "Wanchai Kaekla",
+            "email": "wanchaik@hotmail.com"
+        }
+    ],
+    "require": {
+        "alcaeus/mongo-php-adapter": "1.0.5"
+    }
+}
