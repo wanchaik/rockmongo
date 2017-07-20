@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "alcaeus/mongo-php-adapter": "1.0.5"
+        "alcaeus/mongo-php-adapter": "1.1.*"
     }
 }
